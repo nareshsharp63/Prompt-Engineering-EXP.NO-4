@@ -41,4 +41,7 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
+  [Manual_vs_Automatic_Car_Prompts.pdf](https://github.com/user-attachments/files/28044485/Manual_vs_Automatic_Car_Prompts.pdf)
+
+
   RESULT:
